@@ -26,7 +26,7 @@ if ((width >= 1000)){
 }
 
 function magnify(imglink){
-    $("#img_here").css("background",`url('${calm.jpg}') center center`);
+    $("#img_here").css("background",`url('${imglink}') center center`);
     $("#magnify").css("display","flex");
     $("#magnify").addClass("animated fadeIn");
     setTimeout(function(){
