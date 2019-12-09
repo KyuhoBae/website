@@ -140,7 +140,7 @@ header table {
     cursor: pointer;
     color:#fff;
     background:rgb(90, 255, 44);
-    box-shadow:0px 10px 30px rgba(107, 66, 255,0.8);
+    box-shadow:0px 10px 30px rgba(107, 255, 66,0.8);
 }
 .btn_one {
     font-size:14px;
